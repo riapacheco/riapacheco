@@ -42,7 +42,7 @@
 <details>
   <summary> <strong> 👩‍💻 Quick Facts About Me </strong> </summary> <br>
   <ul>
-    <li>Just transitioned from 8 yrs in <a href="https://www.linkedin.com/in/riapacheco/" target=_blank>Product to Software Development</a></li>
+    <li>Just transitioned from 8 yrs in <a href="https://www.linkedin.com/in/riapacheco/" target="_blank">Product to Software Development</a></li>
     <li>Passionate about <a href="https://www.ria.run/#/apps" target=_blank>User and UX-first design</a> (I do UI design too [and prefer Adobe XD over Figma])</li>
     <li>Started coding when I was a founder in 2018</li>
     <li>If I could marry a framework, I'd marry Angular (100% serious)</li>
