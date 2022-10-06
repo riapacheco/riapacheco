@@ -26,12 +26,13 @@
 <details>
   <summary> <strong> 🧱 What I'm Working On </strong> </summary>
   <br>
-  <u><a href="https://rireader.app" target=_blank>RiReader App</a></u> <br>
+  <strong><u><a href="https://rireader.app" target=_blank>RiReader App</a></u></strong> <br>
   RiReader is an application offered on Web, iOS, and Android, which enables a user to both consume and retain data they've read from a physical book. This is a personal project aka it's the app I've always wanted.
   <br>
   <br>
   
-  <u><a>RiOrganizer App</a></u> <br>
+  <strong><u>RiOrganizer App</u></strong>
+  <br>
   Details coming soon...
   
   <br>
