@@ -41,12 +41,13 @@
 <details>
   <summary> <strong> 👩‍💻 Quick Facts About Me </strong> </summary> <br>
   <ul>
-    <li>Just transitioned from 8 yrs in Product to Software Development</li>
-    <li>Passionate about User and UX-first design (I do UI design too [and prefer Adobe XD over Figma])</li>
-    <li>Extremely nerdy (...you'll see)</li>
+    <li>Just transitioned from 8 yrs in <a href="https://www.linkedin.com/in/riapacheco/" target=_blank>Product to Software Development</a></li>
+    <li>Passionate about <a href="https://www.ria.run/#/apps" target=_blank>User and UX-first design</a> (I do UI design too [and prefer Adobe XD over Figma])</li>
     <li>Started coding when I was a founder in 2018</li>
+    <li>If I could marry a framework, I'd marry Angular (100% serious)</li>
+    <li>My <a href="https://steelseries.com/gaming-keyboards/apex-pro-tkl" target=_blank>keyboard</a> is my first and only child</li>
     <li>
-      Various Hobbies
+      I have a lot of hobbies...
       <ul>
         <li>Books</li>
         <li>Electric / Acoustic Guitar</li>
@@ -60,6 +61,7 @@
         </li>
       </ul>
     </li>
+    <li>Someone really needs to kick me off <a href="https://twitter.com/realriapacheco" target=_blank>Twitter</a> at night</li>
     <br>
   </ul>
   
