@@ -43,8 +43,8 @@
   <summary> <strong> 👩‍💻 Quick Facts About Me </strong> </summary> <br>
   <ul>
     <li>Just transitioned from 8 yrs in <a href="https://www.linkedin.com/in/riapacheco/" target="_blank">Product to Software Development</a></li>
-    <li>Passionate about <a href="https://www.ria.run/#/apps" target=_blank>User and UX-first design</a> (prefer Adobe XD over Figma)</li>
-    <li>Started coding when I was a founder in 2018</li>
+    <li>Passionate about <a href="https://www.ria.run/#/apps" target=_blank>User and UX-first design</a> (<strong>AdobeXD > Figma </strong>[but a tool is a tool])</li>
+    <li>Started coding when I was a founder in 2018 <br> (with an aggressive <strong>increase in <i>nerd</i> intensity just recently</strong>)</li>
     <li>If I could marry a framework, I'd marry Angular (100% serious)</li>
     <li>My <a href="https://steelseries.com/gaming-keyboards/apex-pro-tkl" target=_blank>keyboard</a> is my first and only child</li>
     <li>
