@@ -62,6 +62,9 @@
         </li>
       </ul>
     </li>
+    <li>
+      I started making <a href="https://soundcloud.com/ribeets" target=_blank>sick beats with Serato software</a>
+    </li>
     <li>Someone really needs to kick me off <a href="https://twitter.com/realriapacheco" target=_blank>Twitter</a> at night</li>
     <br>
   </ul>
