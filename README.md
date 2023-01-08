@@ -45,7 +45,7 @@
       Was a <a href="https://cv.riapacheco.link" target=_blank>Product Manager</a> for ~8 years. Worked very hard and still enjoy it! 
     </li>
     <li>
-      Passionate about <a href="https://www.ria.run/#/apps" target=_blank>User and UX-first design</a> (<strong>AdobeXD > Figma </strong>[but a tool is a tool])
+      Passionate about <a href="https://xd.adobe.com/view/29870eb2-ae92-4c1f-89de-284afe9c22bc-7cd4/grid?hints=off%2F%2F" target=_blank>User and UX-first design</a> (<strong>AdobeXD > Figma </strong>[but a tool is a tool])
     </li>
     <li>Started coding when I was a founder in 2018 <br> (with an aggressive <strong>increase in <i>nerd</i> intensity just recently</strong>)</li>
     <li>If I could marry a framework, I'd marry Angular (100% serious)</li>
