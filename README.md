@@ -42,7 +42,7 @@
   <summary> <strong> 👩‍💻 Quick Facts About Me </strong> </summary> <br>
   <ul>
     <li>
-      Was a <a href="https://ik.imagekit.io/fuc9k9ckt2b/Resumes/RP_DEV_PM-CV_2022_linked_g7Ofty--j.pdf?ik-sdk-version=javascript-1.4.3&updatedAt=1669406914018" target=_blank>Product Manager</a> for ~8 years. Worked very hard and still enjoy it! 
+      Was a <a href="https://cv.riapacheco.link" target=_blank>Product Manager</a> for ~8 years. Worked very hard and still enjoy it! 
     </li>
     <li>
       Passionate about <a href="https://www.ria.run/#/apps" target=_blank>User and UX-first design</a> (<strong>AdobeXD > Figma </strong>[but a tool is a tool])
